@@ -1,5 +1,2 @@
-name: xeus-cling
-channels:
-  - conda-forge
-dependencies:
-  - xeus-cling=0.11
+pip install jupyter-c-kernel
+install_c_kernel --user
