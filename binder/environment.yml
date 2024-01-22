@@ -3,3 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - xeus-cling=0.11
+  - other_dependency=1.2.3
